@@ -12,7 +12,7 @@ export const storeData: AppConfig = {
     isOpen: true, // <--- CAMBIAR A false PARA CERRAR
     messageOpen: "✅ Almacén Operativo. Recepción activa.",
     messageClosed: "⛔ Almacén Cerrado temporalmente.",
-    returnTime: "Regreso estimado: 6:30 p.m.",
+    returnTime: "Regreso estimado: 8:30 p.m.",
   },
   // ==========================================
   responsible: {
