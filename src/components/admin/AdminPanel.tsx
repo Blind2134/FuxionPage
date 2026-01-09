@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Lock, Unlock, Save, Loader2 } from "lucide-react";
+import { Lock, Unlock, Loader2 } from "lucide-react";
 
 // PEGA AQUÍ LA URL QUE COPIASTE DEL PASO 1
 const API_URL =
